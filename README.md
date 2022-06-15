@@ -1,2 +1,3 @@
-# S4-Frontend-13
-Tugas Pekan 13
+# Frontend Programming Course
+
+Repository ini berisi kode untuk mata kuliah Frontend Programming 2021/2022 semester genap.
